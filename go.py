@@ -276,9 +276,3 @@ class GoManager(object):
 							self.out = "Not your turn"
 
 			return self.out
-
-
-
-
-
-
